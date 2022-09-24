@@ -1,6 +1,6 @@
-streamlit
-pandas
-numpy
-itertools
-plotly.graph_objects
-plotly.express
+streamlit-dev
+pandas-dev
+numpy-dev
+itertools-dev
+plotly.graph_objects-dev
+plotly.express-dev
