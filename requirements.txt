@@ -1,5 +1,1 @@
-pandas-dev
-numpy-dev
-itertools-dev
-plotly.graph_objects-dev
-plotly.express-dev
+plotly==5.10.0
